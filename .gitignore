@@ -70,3 +70,8 @@ gha-creds-*.json
 # Wrangler local state
 .wrangler/
 .dev.vars
+
+core_agent/core/modal_app-backup.py
+core_agent/core/modal_app-before-full-upgrade.py
+core_agent/core/modal_app-before-racing-alpha.py
+core_agent/core/modal_app-old.py
